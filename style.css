@@ -1,0 +1,70 @@
+@media screen (max-width:450px;)
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.back-cover{
+    display: block;
+    float: left;
+}
+
+.pikachu-card-container{
+    background: linear-gradient(to right,pink,purple);
+    width: 230px;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.background{
+    text-align: center;
+    background: linear-gradient(to right,pink,purple);
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.image{
+    background: linear-gradient(to right,pink,purple);;
+    width: 229px;
+    height: 270px;
+}
+
+.content{
+    background: linear-gradient(to right,pink,purple);
+    padding: 10px;
+    border-bottom-right-radius:10px ;
+    border-bottom-left-radius: 10px;
+}
+
+.pikachu-name{
+    text-align: center;
+    font-size: 19px;
+    font-weight: lighter;
+    padding: 10px;
+}
+
+.pokemon-type{
+    background-color: black;
+    padding: 7px;
+    color: #fff;
+    border-radius: 4px;
+    display: block;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    top: -80px;
+}
+
+.pokemon-logo{
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+}
+
+.pokemon-stats{
+    letter-spacing: 1px;
+}
